@@ -8,3 +8,7 @@ Iteration 2: Prompt Ensembling + Schema checker 54%
 Iteration 3: Must try introduce Acurai, Chain of THought, ReAct, RAG, stronger LLM models ??%  
 
 Compare GPT 4o-mini with GPT 5, deepseek or any other stronger models based on the number of syntactically correct outputs in experiments section
+
+<br>
+
+## How to run the experiments?
